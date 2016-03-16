@@ -26,7 +26,7 @@ SMTP on port 25 is actively prohibited to help prevent spam.
 
 ### Printer
 
-Our copier/MFP is a Kyocera 3051ci.  The IP address is: **10.0.100.10**
+Our copier/MFP is a Kyocera 3051ci.  The IP address is: **10.0.100.10**. Use the Line Printer Daemon protocol. Download the drivers [here](https://www.kyoceradocumentsolutions.eu/index/service/dlc.false.driver.TASKALFA3051CI._.EN.html)
 
 ### Wifi
 
